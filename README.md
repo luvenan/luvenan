@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Luisa
+- 👀 I’m interested in front-end web development
+- 🌱 I’m currently practicing what I've learned with JavaScript, Html, CSS and Vue.Js. I'm working on putting together my portfolio to look for my first job in web development. 
+- 💞️ I’m looking to collaborate on projects that can help me grow and learn. I will soon begin a journey into open source
